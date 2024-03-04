@@ -1,0 +1,18 @@
+{
+  "name": "bincry-consumer",
+  "version": "0.1.1",
+  "description": "A Node.js module using bincry-interact as a dependency.",
+  "main": "bincry-consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bincry", "binance", "ethereum", "smart-contract", "api", "dependency"],
+  "author": "ambma",
+  "license": "MIT",
+  "dependencies": {
+    "node-binance-api": "^1.1.2",
+    "bincry-interact": "^0.1.0",
+    "bincry-consumer": "^0.1.0",
+    "bcrypt": "^5.0.1"
+  }
+}
